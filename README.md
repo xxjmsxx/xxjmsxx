@@ -1,4 +1,4 @@
-![Header](https://github.com/xxjmsxx/xxjmsxx/blob/main/github-header-image%20(2).png)
+![Header](https://github.com/xxjmsxx/xxjmsxx/blob/main/github-header-image%20(3).png)
 
 <h1 align="center">Hi 👋, I'm Joshua Matthew Smith</h1>
 <h3 align="center">Fullstack-Developer from Berlin, Germany</h3>
