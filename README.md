@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Joshua Matthew Smith</h1>
-<h3 align="center">Fullstack-Developer from Berlin, Germany</h3>
+![logo](https://github.com/xxjmsxx/xxjmsxx/blob/main/github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
 
