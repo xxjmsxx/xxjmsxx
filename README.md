@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React-Native, Docker**
 
-- 📫 How to reach me **jmscodingde@gmail.com**
-
 - ⚡ Fun fact **I might be the only dev who doesn't drink coffee**
 
 <h3 align="left">Connect with me:</h3>
