@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xxjmsxx&theme=blue-green)
+![Jokes Card](https://readme-jokes.vercel.app/api)
