@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi 👋 </h1>
-<h1 align="center">I'm Josh Smith</h1>
 <h3 align="center">Fullstack-Developer from Berlin, Germany</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
 
