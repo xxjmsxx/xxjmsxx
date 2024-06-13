@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack-Developer from Berlin, Germany</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
 
-🌱 I’m currently focusing on **learning new Languages**
+🌱 I’m currently focusing on **improving my Rails knowledge && building my React/Rails Project**
 
 ⚡ Fun fact **I might be the only developer who doesn't drink coffee**
 
