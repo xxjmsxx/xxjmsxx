@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack-Developer from Berlin, Germany</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
 
-🌱 I’m currently working on my project *Plan Your Plants* which consists of a [React/Redux Frontend](https://github.com/xxjmsxx/plan-your-plants) and a [Rails Backend API](https://github.com/xxjmsxx/plan-your-plants-api).
+🌱 I am currently developing the *Plan Your Plants Project*, comprising a [React/Redux Frontend](https://github.com/xxjmsxx/plan-your-plants) and a [Rails Backend API](https://github.com/xxjmsxx/plan-your-plants-api).
 
 ⚡ Fun fact **I might be the only developer who doesn't drink coffee**
 
