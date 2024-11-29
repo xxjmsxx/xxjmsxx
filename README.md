@@ -1,6 +1,6 @@
-<div align="center"> <h1 align="center">Hello and Welcome! 👋</h1> <h3 align="center">Software Engineer | Fullstack Developer | AI & Data Enthusiast</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
+<div align="center"> <h1 align="center">Hello and Welcome! 👋</h1> <h3 align="center">Software Engineer</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
 🌱 Personal Projects:
-I am currently developing the Plan Your Plants Project, which includes a React/Redux Frontend and a Rails Backend API. This project reflects my passion for building meaningful, user-focused applications.
+I am currently developing the Plan Your Plants Project, which includes a React/Redux Frontend and a Rails Backend API. This project reflects my passion for building meaningful, user-focused applications (my mom requested it).
 
 🚀 Professional Work:
 At Endpoint, I’m committed to transforming healthcare technology. My focus spans fullstack development, AI, machine learning, and data science—tackling complex challenges to create innovative and impactful solutions.
