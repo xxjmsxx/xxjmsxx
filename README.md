@@ -1,7 +1,7 @@
 <div align="center"> <h1 align="center">Hey there stranger 👋</h1> <h3 align="center">Fullstack Developer | Aspiring Data Scientist | Innovator</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p>
-🌱 I am currently developing the Plan Your Plants Project, comprising a React/Redux Frontend and a Rails Backend API.
+Personal: 🌱 I am currently developing the Plan Your Plants Project, comprising a React/Redux Frontend and a Rails Backend API.
 
-🚀 At Endpoint, I’m focused on revolutionizing healthcare through technology, exploring AI, machine learning, and data science to tackle complex challenges.
+Work: 🚀 At Endpoint, I’m focused on revolutionizing healthcare through technology, exploring AI, machine learning, and data science to tackle complex challenges.
 
 ⚡ Fun fact: I might be the only developer who doesn't drink coffee ☕
 
