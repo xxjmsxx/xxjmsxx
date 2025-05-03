@@ -19,4 +19,4 @@ I also care deeply about user-centered tools—like a React/Rails app that helps
 I’m one of the few devs who don’t drink coffee—chocolate milk is my fuel of choice.
 
 🎶 Backstory
-Originally from the UK and raised in Germany, I started in music before discovering coding through lambda functions and a Le Wagon bootcamp. That linguistic + artistic background still shows up in how I design systems: clear, expressive, and human-first.
+Originally from the UK and raised in Germany, I started in music before discovering coding through the Le Wagon Berlin bootcamp. My artistic background still shows up in how I design systems: clear, expressive, and human-first.
