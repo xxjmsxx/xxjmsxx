@@ -1,5 +1,5 @@
 <div align="center"> <h1 align="center">Hello and Welcome! 👋</h1> <h3 align="center">Software Engineer · AI + Fullstack · Rails, Python, ML</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=xxjmsxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxjmsxx" /> </p> </div>
-🚀 Current Work
+🚀 Currenty Work
 At Endpoint, I build and maintain systems that transform synthetic healthcare data into actionable insights. From fullstack Rails APIs to Python pipelines and agentic LLM infrastructure, my work blends classical engineering with cutting-edge machine learning.
 
 I designed a Knowledge-Augmented Generation (KAG) system that uses vector embeddings to retrieve the most relevant nodes from a biomedical knowledge graph, filters database entities by semantic mappings (e.g., chemo, neuro), and orchestrates LLM queries using Python-generated DataFrame operations. This system answers complex medical queries while remaining explainable and traceable.
