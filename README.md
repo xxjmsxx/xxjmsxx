@@ -13,7 +13,7 @@ Led API design for partner-facing endpoints in our synthetic data platform.
 Developed fast, memory-efficient RAG replacements to support lightweight deployment scenarios.
 
 🌱 Past & Passion Projects
-I also care deeply about user-centered tools—like a React/Rails app that helps people like my mom track their houseplants. My work is driven by curiosity and emotional impact, not just technical polish.
+I also like making apps in my freetime, for example "Plan your Plants" was an app I made for my mom to track all of her gardening needs.
 
 ☕ Fun Fact
 I’m one of the few devs who don’t drink coffee—chocolate milk is my fuel of choice.
